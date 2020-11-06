@@ -1,0 +1,15 @@
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\bin\Debug\netcoreapp3.1\ShopMall.Site.Domain.deps.json
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\bin\Debug\netcoreapp3.1\ShopMall.Site.Domain.runtimeconfig.json
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\bin\Debug\netcoreapp3.1\ShopMall.Site.Domain.runtimeconfig.dev.json
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\bin\Debug\netcoreapp3.1\ShopMall.Site.Domain.dll
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\bin\Debug\netcoreapp3.1\ShopMall.Site.Domain.pdb
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.dll
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\obj\Debug\netcoreapp3.1\ShopMall.Site.Domain.csprojAssemblyReference.cache
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\obj\Debug\netcoreapp3.1\ShopMall.Site.Domain.AssemblyInfoInputs.cache
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\obj\Debug\netcoreapp3.1\ShopMall.Site.Domain.AssemblyInfo.cs
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\obj\Debug\netcoreapp3.1\ShopMall.Site.Domain.csproj.CopyComplete
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\obj\Debug\netcoreapp3.1\ShopMall.Site.Domain.dll
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\obj\Debug\netcoreapp3.1\ShopMall.Site.Domain.pdb
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\obj\Debug\netcoreapp3.1\ShopMall.Site.Domain.genruntimeconfig.cache
+D:\testcodes\c#\ShopMall\ShopMall.Site.Domain\obj\Debug\netcoreapp3.1\ShopMall.Site.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.deps.json
+D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.dll
+D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
+D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.AssemblyInfoInputs.cache
+D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.AssemblyInfo.cs
+D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.dll
+D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
+D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.csproj.CoreCompileInputs.cache
+D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.csprojAssemblyReference.cache

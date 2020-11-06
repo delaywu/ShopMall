@@ -1,0 +1,14 @@
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Automapper.deps.json
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Automapper.dll
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Automapper.pdb
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Domain.dll
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.dll
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Domain.pdb
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.csprojAssemblyReference.cache
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.AssemblyInfoInputs.cache
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.AssemblyInfo.cs
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.csproj.CoreCompileInputs.cache
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.csproj.CopyComplete
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.dll
+D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.pdb

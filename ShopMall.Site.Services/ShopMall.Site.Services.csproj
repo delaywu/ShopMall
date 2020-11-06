@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopMall.Site.Automapper\ShopMall.Site.Automapper.csproj" />
+    <ProjectReference Include="..\ShopMall.Site.Domain\ShopMall.Site.Domain.csproj" />
+    <ProjectReference Include="..\ShopMall.Site.Infrastructure\ShopMall.Site.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

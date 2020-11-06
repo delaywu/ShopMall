@@ -1,0 +1,361 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.WebApi\\ShopMall.Site.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Automapper\\ShopMall.Site.Automapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Automapper\\ShopMall.Site.Automapper.csproj",
+        "projectName": "ShopMall.Site.Automapper",
+        "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Automapper\\ShopMall.Site.Automapper.csproj",
+        "packagesPath": "C:\\Users\\delaywuw\\.nuget\\packages\\",
+        "outputPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Automapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\delaywuw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\ShopMall.Site.Domain.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\ShopMall.Site.Domain.csproj"
+              },
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\ShopMall.Site.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\ShopMall.Site.Domain.csproj",
+        "projectName": "ShopMall.Site.Domain",
+        "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\ShopMall.Site.Domain.csproj",
+        "packagesPath": "C:\\Users\\delaywuw\\.nuget\\packages\\",
+        "outputPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\delaywuw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj",
+        "projectName": "ShopMall.Site.Infrastructure",
+        "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\delaywuw\\.nuget\\packages\\",
+        "outputPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\delaywuw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Services\\ShopMall.Site.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Services\\ShopMall.Site.Services.csproj",
+        "projectName": "ShopMall.Site.Services",
+        "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Services\\ShopMall.Site.Services.csproj",
+        "packagesPath": "C:\\Users\\delaywuw\\.nuget\\packages\\",
+        "outputPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\delaywuw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Automapper\\ShopMall.Site.Automapper.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Automapper\\ShopMall.Site.Automapper.csproj"
+              },
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\ShopMall.Site.Domain.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\ShopMall.Site.Domain.csproj"
+              },
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.WebApi\\ShopMall.Site.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.WebApi\\ShopMall.Site.WebApi.csproj",
+        "projectName": "ShopMall.Site.WebApi",
+        "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.WebApi\\ShopMall.Site.WebApi.csproj",
+        "packagesPath": "C:\\Users\\delaywuw\\.nuget\\packages\\",
+        "outputPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\delaywuw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Automapper\\ShopMall.Site.Automapper.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Automapper\\ShopMall.Site.Automapper.csproj"
+              },
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\ShopMall.Site.Domain.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Domain\\ShopMall.Site.Domain.csproj"
+              },
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Infrastructure\\ShopMall.Site.Infrastructure.csproj"
+              },
+              "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Services\\ShopMall.Site.Services.csproj": {
+                "projectPath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Services\\ShopMall.Site.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
