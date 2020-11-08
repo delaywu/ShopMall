@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.0.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.9">
       <PrivateAssets>all</PrivateAssets>
@@ -18,6 +20,10 @@
     <ProjectReference Include="..\ShopMall.Site.Domain\ShopMall.Site.Domain.csproj" />
     <ProjectReference Include="..\ShopMall.Site.Infrastructure\ShopMall.Site.Infrastructure.csproj" />
     <ProjectReference Include="..\ShopMall.Site.Services\ShopMall.Site.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Documents\Sqls\" />
   </ItemGroup>
 
 

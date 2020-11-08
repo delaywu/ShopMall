@@ -15,13 +15,13 @@ namespace ShopMall.Site.Infrastructure.DapperExtensions
         /// 获取 读数据库 连接
         /// </summary>
         /// <returns></returns>
-        public static IDbConnection ConnRead() => new SqlConnection(readstr);
+        public static IDbConnection Read() => new SqlConnection(readstr);
 
         /// <summary>
         /// 获取 写数据库 连接
         /// </summary>
         /// <returns></returns>
-        public static IDbConnection ConnWrite() => new SqlConnection(writestr);
+        public static IDbConnection Write() => new SqlConnection(writestr);
 
         /// <summary>
         /// 获取数据库连接

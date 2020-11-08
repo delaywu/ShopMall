@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OvNVE7sypjdpzwrJH+ec1SRR/q046gucFyLSuOcGmRS18XkIdHKZjVje6khKeHwKfPAWYJMblWOBt26DPU46Og==",
+  "dgSpecHash": "v5oRqbPtOoQCmGOvhTX027EuLou8VHAakz4BIabOJ1v0Ksaf5WsHyii9HYWXCfe+q7Yp97lw4PMtTkjFVdcObw==",
   "success": true,
-  "projectFilePath": "D:\\testcodes\\c#\\ShopMall\\ShopMall.Site.Backend\\ShopMall.Site.Backend.csproj",
+  "projectFilePath": "F:\\App\\api\\ShopMall\\ShopMall.Site.Backend\\ShopMall.Site.Backend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

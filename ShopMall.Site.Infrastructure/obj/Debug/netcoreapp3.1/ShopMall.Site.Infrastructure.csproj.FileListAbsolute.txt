@@ -7,3 +7,12 @@ D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\Sh
 D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
 D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.csproj.CoreCompileInputs.cache
 D:\testcodes\c#\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.csprojAssemblyReference.cache
+F:\App\api\ShopMall\ShopMall.Site.Infrastructure\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.deps.json
+F:\App\api\ShopMall\ShopMall.Site.Infrastructure\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.dll
+F:\App\api\ShopMall\ShopMall.Site.Infrastructure\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
+F:\App\api\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.csprojAssemblyReference.cache
+F:\App\api\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.AssemblyInfoInputs.cache
+F:\App\api\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.AssemblyInfo.cs
+F:\App\api\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.csproj.CoreCompileInputs.cache
+F:\App\api\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.dll
+F:\App\api\ShopMall\ShopMall.Site.Infrastructure\obj\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
