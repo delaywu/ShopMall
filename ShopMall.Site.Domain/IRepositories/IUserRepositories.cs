@@ -1,7 +1,6 @@
-﻿using ShopMall.Site.Domain.Dtos;
-using ShopMall.Site.Domain.Entities;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using ShopMall.Site.Domain.Dtos;
 
 namespace ShopMall.Site.Domain.IRepositories
 {
