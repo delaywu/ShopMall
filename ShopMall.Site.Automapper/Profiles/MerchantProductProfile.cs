@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using ShopMall.Site.Domain.Dtos;
-using ShopMall.Site.Domain.Entities;
+using ShopMall.Site.Domain.Entities; 
 
 namespace ShopMall.Site.Automapper.Profiles
 {
@@ -8,7 +8,7 @@ namespace ShopMall.Site.Automapper.Profiles
     {
         public MerchantProductProfile()
         {
-            CreateMap<MerchantProduct, MerchantProductDto>();
+            CreateMap<MerchantProduct, MerchantProductDto>(); 
         }
     }
 }

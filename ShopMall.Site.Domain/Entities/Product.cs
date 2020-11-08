@@ -19,7 +19,7 @@ namespace ShopMall.Site.Domain.Entities
         /// <summary>
         /// 获取或设置 图片链接
         /// </summary>
-        public string ImageUrl { get; set; }
+        public string ImgUrl { get; set; }
 
         /// <summary>
         /// 获取或设置 推荐指数

@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>64df9c7c-75a6-4a57-a135-dd9b10827a6e</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,10 +21,6 @@
     <ProjectReference Include="..\ShopMall.Site.Domain\ShopMall.Site.Domain.csproj" />
     <ProjectReference Include="..\ShopMall.Site.Infrastructure\ShopMall.Site.Infrastructure.csproj" />
     <ProjectReference Include="..\ShopMall.Site.Services\ShopMall.Site.Services.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Documents\Sqls\" />
   </ItemGroup>
 
 

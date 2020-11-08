@@ -1,0 +1,15 @@
+F:\App\api\ShopMall\ShopMall.Site.Domain\bin\Release\netcoreapp3.1\ShopMall.Site.Domain.deps.json
+F:\App\api\ShopMall\ShopMall.Site.Domain\bin\Release\netcoreapp3.1\ShopMall.Site.Domain.runtimeconfig.json
+F:\App\api\ShopMall\ShopMall.Site.Domain\bin\Release\netcoreapp3.1\ShopMall.Site.Domain.runtimeconfig.dev.json
+F:\App\api\ShopMall\ShopMall.Site.Domain\bin\Release\netcoreapp3.1\ShopMall.Site.Domain.dll
+F:\App\api\ShopMall\ShopMall.Site.Domain\bin\Release\netcoreapp3.1\ShopMall.Site.Domain.pdb
+F:\App\api\ShopMall\ShopMall.Site.Domain\bin\Release\netcoreapp3.1\ShopMall.Site.Infrastructure.dll
+F:\App\api\ShopMall\ShopMall.Site.Domain\bin\Release\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
+F:\App\api\ShopMall\ShopMall.Site.Domain\obj\Release\netcoreapp3.1\ShopMall.Site.Domain.csprojAssemblyReference.cache
+F:\App\api\ShopMall\ShopMall.Site.Domain\obj\Release\netcoreapp3.1\ShopMall.Site.Domain.AssemblyInfoInputs.cache
+F:\App\api\ShopMall\ShopMall.Site.Domain\obj\Release\netcoreapp3.1\ShopMall.Site.Domain.AssemblyInfo.cs
+F:\App\api\ShopMall\ShopMall.Site.Domain\obj\Release\netcoreapp3.1\ShopMall.Site.Domain.csproj.CoreCompileInputs.cache
+F:\App\api\ShopMall\ShopMall.Site.Domain\obj\Release\netcoreapp3.1\ShopMall.Site.Domain.csproj.CopyComplete
+F:\App\api\ShopMall\ShopMall.Site.Domain\obj\Release\netcoreapp3.1\ShopMall.Site.Domain.dll
+F:\App\api\ShopMall\ShopMall.Site.Domain\obj\Release\netcoreapp3.1\ShopMall.Site.Domain.pdb
+F:\App\api\ShopMall\ShopMall.Site.Domain\obj\Release\netcoreapp3.1\ShopMall.Site.Domain.genruntimeconfig.cache

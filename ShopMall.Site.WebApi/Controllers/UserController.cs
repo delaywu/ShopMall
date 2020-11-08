@@ -1,9 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using ShopMall.Site.Domain.Dtos;
-using ShopMall.Site.Domain.Entities;
-using ShopMall.Site.Domain.IRepositories;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using ShopMall.Site.Domain.Dtos;
+using ShopMall.Site.Domain.IRepositories;
 
 namespace ShopMall.Site.WebApi.Controllers
 {

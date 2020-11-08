@@ -14,11 +14,13 @@ namespace ShopMall.Site.WebApi.Controllers
     {
         public IHomeRepositories _HomeRepositories { get; set; }
         
-        [HttpGet] 
+        [HttpGet(Name =nameof(GetHomeData))] 
         public async Task<ActionResult<IEnumerable<HomeModel>>> GetHomeData()
         {
             var result = await _HomeRepositories.HomeEntitiesAsync(1);
             return Ok(result);
         }
+
+        //public async Task<AcceptedResult<IEnumerable<>>>
     }
 }

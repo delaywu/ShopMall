@@ -12,17 +12,3 @@ D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMa
 D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.csproj.CopyComplete
 D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.dll
 D:\testcodes\c#\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.pdb
-F:\App\api\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Automapper.deps.json
-F:\App\api\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Automapper.dll
-F:\App\api\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Automapper.pdb
-F:\App\api\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Domain.dll
-F:\App\api\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.dll
-F:\App\api\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Domain.pdb
-F:\App\api\ShopMall\ShopMall.Site.Automapper\bin\Debug\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
-F:\App\api\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.csprojAssemblyReference.cache
-F:\App\api\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.AssemblyInfoInputs.cache
-F:\App\api\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.AssemblyInfo.cs
-F:\App\api\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.csproj.CoreCompileInputs.cache
-F:\App\api\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.csproj.CopyComplete
-F:\App\api\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.dll
-F:\App\api\ShopMall\ShopMall.Site.Automapper\obj\Debug\netcoreapp3.1\ShopMall.Site.Automapper.pdb

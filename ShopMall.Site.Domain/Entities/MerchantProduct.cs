@@ -14,7 +14,7 @@ namespace ShopMall.Site.Domain.Entities
         /// <summary>
         /// 获取或设置 商品 外键
         /// </summary>
-        public int ProductId { get; set; }
+        public int ProductId { get; set; } 
 
         /// <summary>
         /// 获取或设置 价格

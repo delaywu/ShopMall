@@ -1,0 +1,16 @@
+F:\App\api\ShopMall\ShopMall.Site.Services\bin\Release\netcoreapp3.1\ShopMall.Site.Services.deps.json
+F:\App\api\ShopMall\ShopMall.Site.Services\bin\Release\netcoreapp3.1\ShopMall.Site.Services.dll
+F:\App\api\ShopMall\ShopMall.Site.Services\bin\Release\netcoreapp3.1\ShopMall.Site.Services.pdb
+F:\App\api\ShopMall\ShopMall.Site.Services\bin\Release\netcoreapp3.1\ShopMall.Site.Automapper.dll
+F:\App\api\ShopMall\ShopMall.Site.Services\bin\Release\netcoreapp3.1\ShopMall.Site.Domain.dll
+F:\App\api\ShopMall\ShopMall.Site.Services\bin\Release\netcoreapp3.1\ShopMall.Site.Infrastructure.dll
+F:\App\api\ShopMall\ShopMall.Site.Services\bin\Release\netcoreapp3.1\ShopMall.Site.Automapper.pdb
+F:\App\api\ShopMall\ShopMall.Site.Services\bin\Release\netcoreapp3.1\ShopMall.Site.Domain.pdb
+F:\App\api\ShopMall\ShopMall.Site.Services\bin\Release\netcoreapp3.1\ShopMall.Site.Infrastructure.pdb
+F:\App\api\ShopMall\ShopMall.Site.Services\obj\Release\netcoreapp3.1\ShopMall.Site.Services.csprojAssemblyReference.cache
+F:\App\api\ShopMall\ShopMall.Site.Services\obj\Release\netcoreapp3.1\ShopMall.Site.Services.AssemblyInfoInputs.cache
+F:\App\api\ShopMall\ShopMall.Site.Services\obj\Release\netcoreapp3.1\ShopMall.Site.Services.AssemblyInfo.cs
+F:\App\api\ShopMall\ShopMall.Site.Services\obj\Release\netcoreapp3.1\ShopMall.Site.Services.csproj.CoreCompileInputs.cache
+F:\App\api\ShopMall\ShopMall.Site.Services\obj\Release\netcoreapp3.1\ShopMall.Site.Services.csproj.CopyComplete
+F:\App\api\ShopMall\ShopMall.Site.Services\obj\Release\netcoreapp3.1\ShopMall.Site.Services.dll
+F:\App\api\ShopMall\ShopMall.Site.Services\obj\Release\netcoreapp3.1\ShopMall.Site.Services.pdb
