@@ -8,12 +8,12 @@ namespace ShopMall.Site.Domain.Entities
     public class User : EntityBase<int>
     {
         /// <summary>
-        /// 手机号
+        /// 获取或设置 手机号
         /// </summary>
         public string Mobile { get; set; }
 
         /// <summary>
-        /// 头像 地址
+        /// 获取或设置 头像 地址
         /// </summary>
         public string Portrait { get; set; }
     }

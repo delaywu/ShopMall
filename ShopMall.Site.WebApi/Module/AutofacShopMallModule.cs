@@ -12,7 +12,7 @@ namespace ShopMall.Site.WebApi
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterGeneric(typeof(RepositoriesBase<,>)).As(typeof(IRepositoriesBase<,>)); 
-;
+
             var baseType = typeof(IDependency);
             var assemblies = AppDomain.CurrentDomain.GetAssemblies();
             builder.RegisterAssemblyTypes(assemblies)

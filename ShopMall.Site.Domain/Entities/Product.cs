@@ -4,25 +4,25 @@ using System.Text;
 
 namespace ShopMall.Site.Domain.Entities
 {
-    public class Product : EntityBase<Guid>
+    public class Product : EntityBase<int>
     {
         /// <summary>
-        /// 商品名称
+        /// 获取或设置 商品名称
         /// </summary>
         public string Name { get; set; }
 
         /// <summary>
-        /// 价格
+        /// 获取或设置 价格
         /// </summary>
-        public decimal Price { get; set; } 
+        public decimal Price { get; set; }
 
         /// <summary>
-        /// 图片链接
+        /// 获取或设置 图片链接
         /// </summary>
         public string ImageUrl { get; set; }
 
         /// <summary>
-        /// 推荐指数
+        /// 获取或设置 推荐指数
         /// </summary>
         public int Recommend { get; set; }
 
